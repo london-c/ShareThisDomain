@@ -7,7 +7,7 @@ Notes here:
  * Name: Decide later
  * Temp URL (no custom domain): https://admiring-banach-76539a.netlify.com
  * URL(under .99c): Decide later
- * GitHub Repo: https://github.com/london-c/ShareThisDomain
+ * GitHub Repo: https://github.com/london-c/public-html-editor/
 
 Tasks (✔):
  * Do all CSS ❌
