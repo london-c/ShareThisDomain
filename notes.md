@@ -4,7 +4,7 @@ This is a list of our notes during the whole process of coding the website and e
 Notes here:
  * Time limit: 1 Hour
  * Our idea: Live public editable HTML document
- * Name: Decide later
+ * Name: HTMLLive
  * Temp URL (no custom domain): https://admiring-banach-76539a.netlify.com
  * URL(under .99c): Decide later
  * GitHub Repo: https://github.com/london-c/public-html-editor/

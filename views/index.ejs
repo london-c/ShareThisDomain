@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Live - Live code editor & viewer</title>
+        <link rel="stylesheet" href="css/main.css" type="text/css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="https://i.imgur.com/wiGK6M9.png">
+    </head>
+    <body>
+        <div class="header">
+            <h1 class="title">LiveHTML</h1>
+            <p>A public HTML document that anyone can edit 📝</p>  
+            <p class="userCountWrapper">🙂 User Count: <span class="userCount">loading...</span></p>
+        </div>
+        
+        <!-- KEEP NAME: liveEditor -->
+        <div class="content">
+            <textarea class="liveEditor" id="" cols="30" rows="10" value="<%- text %>"></textarea>
+            <div class="result"><%- text %></div>
+        </div>
+    </body>
+        
+    <!-- // WILLIAM STUFF DO NOT TOUCH -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/js/core.js"></script>
+    <!-- // END OF WILLIAM STUFF -->
+</html>

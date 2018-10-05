@@ -1,0 +1,28 @@
+{
+  "name": "sharethisdomain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/london-c/ShareThisDomain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/london-c/ShareThisDomain/issues"
+  },
+  "homepage": "https://github.com/london-c/ShareThisDomain#readme",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "ngrok": "2.3.0",
+    "nodemon": "^1.18.4",
+    "socket.io": "^2.1.1"
+  }
+}
