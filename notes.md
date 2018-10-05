@@ -5,7 +5,7 @@ Notes here:
  * Time limit: 1 Hour
  * Our idea: Live public editable HTML document
  * Name: HTMLLive
- * Temp URL (no custom domain): https://admiring-banach-76539a.netlify.com
+ * Temp URL (no custom domain): https://livehtml.herokuapp.com/ 
  * URL(under .99c): Decide later
  * GitHub Repo: https://github.com/london-c/public-html-editor/
 
