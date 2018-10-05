@@ -2,7 +2,7 @@ This is a list of our notes during the whole process of coding the website and e
 
 Notes here:
  * Time limit: 1 Hour
- * Our idea: Create sites under 10kb (index.html).
+ * Our idea: 64kb, generate sites under 64kb with a random subdomain
  * Name: Decide later
  * Temp URL (no custom domain): https://admiring-banach-76539a.netlify.com
  * URL(under .99c): Decide later
@@ -12,13 +12,8 @@ Notes here:
 Tasks (✔):
  * Do all CSS ❌
  * Do all of the index ❌
- * JS for sharing ❌
- * Name and domain name that are available ❌
+ * Find a name and domain name that are available ❌
  * All under allocated time (1H) ❌
  * Get GitHub working ✔
  * Get VSCode Live Sharing to work ✔
-
-Commits:
- * How it works: Leave a message here to commit and a commit message
- * Ex: "* Commit 1: Added new title"
- * Commit 1: First Commit
+ * Push first commit ✔
